@@ -1,6 +1,6 @@
 # flutter_application_2
+65011212231 พีรกิจ สุธรรม ส่ง งาน 1204303 ส่ง Link GitHub แบบ Public ของงานที่ทำ ใน Git จะต้องมีรูปภาพที่แคปจากหน้าจอของงานทุกหน้า
 
-A new Flutter project.
 
 ## Getting Started
 
